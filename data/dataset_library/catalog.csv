@@ -1,0 +1,5 @@
+Accession,Repository,Organism,Tissue,Condition,Format,Size,Replicates,URL,Notes
+ERR8654123,ENA/SRA,Human,Unknown,Unknown,.pod5,~GBs,1,ftp://ftp.ebi.ac.uk/pub/databases/ena/sra/srr/ERR8654123/ERR8654123.pod5,Download timeout
+SRP186451,SRA,Pig,Skeletal Muscle,Differentiation,.fastq,Unknown,12,https://sra-pub-run-odp.s3.amazonaws.com/sra/SRP186451/,Diversity validation
+GSM461176,GEO,Unknown,Unknown,Untreated,.fastq,Unknown,4,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR461/SRR461176/SRR461176.fastq.gz,Pipeline testing
+PRJNA731149,SRA,Human,Brain,Unknown,.fastq,Unknown,1,https://sra-pub-run-odp.s3.amazonaws.com/sra/PRJNA731149/,Human RNA-seq
